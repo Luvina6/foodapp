@@ -1,0 +1,17 @@
+{
+    "name": "food app",
+    "short_name": "foodApp",
+    "start_url": "/Restaurant.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [{
+            "src": "/images/r3.jpg",
+            "type": "image/jpg",
+            "sizes": "2048x1365",
+            "purpose": "any"
+        }
+
+    ]
+}
